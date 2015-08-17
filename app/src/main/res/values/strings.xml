@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Elementary Teacher Counter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clear">Clear History</string>
+    <string name="title_activity_result">Result</string>
+    <string name="heading1">Supply your filters</string>
+    <string name="year">Year</string>
+    <string name="geo">Geo</string>
+    <string name="edu">Work</string>
+    <string name="age">Age</string>
+    <string name="sex">Gender</string>
+    <string name="val">Value</string>
+    <string name="submit">Submit</string>
+    <string name="dl">Download Data</string>
+    <string name="toTable">To Table</string>
+
+    <string-array name="array_year">
+        <item>2002/2003</item>
+        <item>2003/2004</item>
+        <item>2004/2005</item>
+        <item>2005/2006</item>
+        <item>2006/2007</item>
+        <item>2007/2008</item>
+        <item>2008/2009</item>
+        <item>2009/2010</item>
+        <item>2010/2011</item>
+        <item>2011/2012</item>
+        <item>2012/2013</item>
+    </string-array>
+
+    <string-array name="array_geo">
+        <item>Canada</item>
+        <item>Newfoundland and Labrador</item>
+        <item>Prince Edward Island</item>
+        <item>Nova Scotia</item>
+        <item>New Brunswick</item>
+        <item>Quebec</item>
+        <item>Ontario</item>
+        <item>Manitoba</item>
+        <item>Saskatchewan</item>
+        <item>Alberta</item>
+        <item>British Columbia</item>
+        <item>Yukon</item>
+        <item>Northwest Territories</item>
+        <item>Nunavut</item>
+    </string-array>
+
+    <string-array name="array_work">
+        <item>All educators</item>
+        <item>Full-time educators</item>
+        <item>Part-time  educators</item>
+    </string-array>
+
+    <string-array name="array_age">
+        <item>All ages</item>
+        <item>Less than 25 years</item>
+        <item>25 to 29 years</item>
+        <item>30 to 34 years</item>
+        <item>35 to 39 years</item>
+        <item>40 to 44 years</item>
+        <item>45 to 49 years</item>
+        <item>50 to 54 years</item>
+        <item>55 to 59 years</item>
+        <item>60 to 64 years</item>
+        <item>65 years and over</item>
+        <item>Age unknown</item>
+    </string-array>
+
+    <string-array name="array_sex">
+        <item>Total sex</item>
+        <item>Males</item>
+        <item>Females</item>
+    </string-array>
+
+</resources>
